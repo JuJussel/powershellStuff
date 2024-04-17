@@ -1,6 +1,0 @@
-
-# Where to look for log folders
-$searchDirectory = "C:\logs
-$fileCountMin = 2
-
-$logFolders = Get-ChildItems $searchDirectory
